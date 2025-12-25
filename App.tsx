@@ -318,7 +318,7 @@ const About = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-24 items-center">
           <div className="relative">
             <div className="aspect-[4/5] rounded-3xl overflow-hidden grayscale hover:grayscale-0 transition-all duration-1000 border border-slate-800 group relative">
-              <img src="ai.jpg"
+              <img src="https://img.sanishtech.com/u/09bc2c7ad825571ad2e46b76f14d73cd.jpg"
                 alt="Sohag Profile" 
                 className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110"
               />
